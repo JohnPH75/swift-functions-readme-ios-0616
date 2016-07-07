@@ -30,6 +30,8 @@ func sayHelloToCat(catName: String) {
 
 sayHelloToCat("Mittens")
 
+sayHelloToCat("Stimpy")
+
 let catFriend = "Socks"
 sayHelloToCat(catFriend)
 
